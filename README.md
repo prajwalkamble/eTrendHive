@@ -1,6 +1,6 @@
 # **Full Stack Development Project (Group 2)**
 
-### - **Overview:**
+### . **Overview:**
 - We have developed an E-Commerce platform for gamers and electronics enthusiasts using Java, Spring Boot in backend and React JS in frontend.
 
 ### - **Key Features:**
