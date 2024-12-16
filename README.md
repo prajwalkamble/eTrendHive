@@ -4,6 +4,7 @@
 - We have developed an E-Commerce platform for gamers and electronics enthusiasts using Java, Spring Boot in backend and React JS in frontend.
 
 <br>
+
 * ### **Key Features:**
   - CRUD Operations
   - Smooth User Experience
@@ -11,6 +12,7 @@
   - Sign-in and Sign-up features
 
 <br>
+
 * ### **Participants:**
   + **Harsha:**
     - Creating Reusable Components: Develop modular React components for elements like navigation menus, product cards, search bars, and footers to ensure consistency and ease of maintenance.
@@ -29,6 +31,7 @@
     - **Order Module**: Created APIs for order creation, tracking, and handling payment status integration.
 
 <br>
+
 * ### **Project Execution Demo:**
 
 - **Sign-Up Page**
