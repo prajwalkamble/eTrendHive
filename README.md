@@ -1,15 +1,15 @@
 # **Full Stack Development Project (Group 2)**
 
-- **Overview:**
+### - **Overview:**
 - We have developed an E-Commerce platform for gamers and electronics enthusiasts using Java, Spring Boot in backend and React JS in frontend.
 
-- **Key Features:**
-- CRUD Operations
-- Smooth User Experience
-- Admin Dashboard
-- Sign-in and Sign-up features
+### - **Key Features:**
+  - CRUD Operations
+  - Smooth User Experience
+  - Admin Dashboard
+  - Sign-in and Sign-up features
 
-- **Participants:**
+### - **Participants:**
 - **Harsha:**
   - Creating Reusable Components: Develop modular React components for elements like navigation menus, product cards, search bars, and footers to ensure consistency and ease of maintenance.
   - Responsive Design: Ensure the platform adapts smoothly to various devices (mobile, tablet, desktop).
@@ -29,7 +29,7 @@
 
 -  ### **Project Execution Demo:**
 - **Sign-Up Page**
-  - ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.001.png)
+![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.001.png)
 
 
   - **Sign-In Page**
