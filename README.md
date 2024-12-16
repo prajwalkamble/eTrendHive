@@ -34,13 +34,13 @@
 
 * ## **Project Execution Demo:**
 
-### **Sign-Up Page**
+### * **Sign-Up Page**
 
 ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.001.png)
 
 <br>
 
-### **Sign-In Page**
+### * **Sign-In Page**
 
 ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.002.png)
 
