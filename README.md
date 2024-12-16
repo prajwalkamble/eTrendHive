@@ -40,13 +40,13 @@
 
 <br>
 
-  - ### **Sign-In Page**
+    - ### **Sign-In Page**
 
 ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.002.png)
 
 <br>
 
-  - ### **Home Page**
+    - ### **Home Page**
 
 ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.003.png)
 
