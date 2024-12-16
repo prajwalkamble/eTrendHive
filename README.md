@@ -27,31 +27,38 @@
   - **Order Module**: Created APIs for order creation, tracking, and handling payment status integration.
 
 
--  ### **Project Execution Demo:**
+### - **Project Execution Demo:**
 
 - **Sign-Up Page**
+
 ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.001.png)
 
 
 - **Sign-In Page**
+
 ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.002.png)
 
 
 - **Home Page**
+
 ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.003.png)
 
 
 - **Admin Dashboard**
+
 ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.004.png)
 
 
 - **Product Page**
+
 ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.005.jpeg)
 
 
 - **Order Page**
+
 ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.006.jpeg)
 
 
 - **Payment Confirmation**
+
 ![](Aspose.Words.c3b00a9f-4bfa-4cda-a868-58d2f2c1ad04.007.jpeg)
